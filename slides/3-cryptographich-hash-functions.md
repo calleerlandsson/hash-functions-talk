@@ -1,7 +1,7 @@
 Cryptographic Hash Functions
 ----------------------------
 
-Properties: 
+Properties:
 
 - Computationally efficient
 - Collision resistant
