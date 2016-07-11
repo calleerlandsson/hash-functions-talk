@@ -1,6 +1,6 @@
 # Cryptographic Hash Functions
 
-My notes from a talk I gave on cryptographic hash functions covering:
+Notes from a talk I gave on cryptographic hash functions covering:
 
 * Hash functions
 * What makes cryptographic hash functions cryptographic
