@@ -1,16 +1,14 @@
-hash-functions-talk
-===================
+# Cryptographic Hash Functions
 
-A talk about cryptographic hash functions.
-
-This talk covers:
+My notes from a talk I gave on cryptographic hash functions covering:
 
 * Hash functions
-* What make cryptographic hash functions cryptographic
+* What makes cryptographic hash functions cryptographic
 * Use cases for hash functions
 * Simple hash function implementations
 
-Usage
------
+## Video
 
-    vim slides/*
+The talk was recorded and is available on [YouTube].
+
+[YouTube]: https://youtu.be/t12G89Bo0R0
